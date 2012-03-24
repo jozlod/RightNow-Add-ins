@@ -1,0 +1,12 @@
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\bin\Debug\DateOfBirth.dll
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\bin\Debug\DateOfBirth.pdb
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\DateOfBirth.DateOfBirthControl.resources
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\DateOfBirth.Properties.Resources.resources
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\DateOfBirth.DateOfBirthAddIn.resources
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\GenerateResource.write.1.tlog
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\DateOfBirth.dll
+C:\Projects\RightNow-Add-ins\src\RNTCustomAddins\DateOfBirth\obj\Debug\DateOfBirth.pdb
